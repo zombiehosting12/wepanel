@@ -1,0 +1,89 @@
+ .u-section-1 {
+  background-image: url("images/zombieprices.png");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 696px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 574px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 440px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 330px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 208px;
+  }
+} .u-section-2 {
+  background-image: url("images/Screenshot2022-04-19093843-18.png");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 701px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 1092px;
+  height: 588px;
+  margin: 113px 19px 0 auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 496px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 940px;
+    height: 506px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 378px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 720px;
+    height: 388px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 281px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 540px;
+    height: 291px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 173px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 183px;
+  }
+}
